@@ -3,8 +3,14 @@
 ## Description
 The Google Book Search Engine is a simple web application built on the MERN Stack that allows users to search for any book that exists on the Google Book Library. Users are also able to save books that they are interested in to their profile so that they can keep track of what books they would like to read.
 
+<img width="1551" alt="Screen Shot 2022-11-07 at 2 44 21 PM" src="https://user-images.githubusercontent.com/105229148/200420662-4ce256ac-1011-4c8b-b5f1-55e7153bb3ff.png">
+
+<img width="1555" alt="Screen Shot 2022-11-07 at 1 19 02 PM" src="https://user-images.githubusercontent.com/105229148/200420684-dd588d7f-ec90-4c3b-a942-821804945d72.png">
+
+<img width="1551" alt="Screen Shot 2022-11-07 at 1 20 37 PM" src="https://user-images.githubusercontent.com/105229148/200420701-7a9468cd-509f-4ace-89cf-2d55f8c2668d.png">
+
 ## Usage
-To use the application go to https://graphql-google-book-search.herokuapp.com/ and begin by creating an account (create a username, provide an email, and create a unique password) so that you can access all of the sites features. Once logged in you can search for any book using its title or any keywords that may be in the description. Every book has a "Save this book!" button that saves the the book to your profile so that you can easily keep track of which books you are interested in! Once you have saved a book the "Save this book!" button changes to a "This book has already been saved!" message to prevent you from saving the same book twice. To view your saved books click the "See Your Books" link on the right side of the navigation bar that is located at the top of the web page. When you have found a copy of any of your books to read or you are simply no longer interested in them anymore just click the "Delete this book!" button and it will be removed from your profile. You can logout from the webpage and your books will stay safe and sound where you left them! 
+To use the application go to  and begin by creating an account (create a username, provide an email, and create a unique password) so that you can access all of the sites features. Once logged in you can search for any book using its title or any keywords that may be in the description. Every book has a "Save this book!" button that saves the the book to your profile so that you can easily keep track of which books you are interested in! Once you have saved a book the "Save this book!" button changes to a "This book has already been saved!" message to prevent you from saving the same book twice. To view your saved books click the "See Your Books" link on the right side of the navigation bar that is located at the top of the web page. When you have found a copy of any of your books to read or you are simply no longer interested in them anymore just click the "Delete this book!" button and it will be removed from your profile. You can logout from the webpage and your books will stay safe and sound where you left them! 
 
 ## Installation
 
