@@ -70,3 +70,12 @@ const resolvers = {
                 );
 
                 return updatedUserBooks;
+            }
+
+            throw new AuthenticationError('You need to be logged in to use this feature.');
+        },
+    }
+};
+
+module.exports = resolvers;
+
